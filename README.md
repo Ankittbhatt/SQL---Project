@@ -2,7 +2,7 @@
 📌 *Project Overview*
 
 This project demonstrates SQL-based business data analysis using a retail dataset.
-The project covers various analysis techniques including exploratory data analysis (EDA), customer and product segmentation, performance evaluation, ranking, trend analysis, contribution analysis, and product-level reporting.
+The project covers various analysis techniques including exploratory data analysis (EDA), customer and product segmentation, performance evaluation, ranking, trend analysis, contribution analysis,product-level reporting and customer-level reporting
 
 * The goal is to provide actionable business insights such as:
 
